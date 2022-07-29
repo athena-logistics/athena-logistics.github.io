@@ -22,3 +22,7 @@ title: Athena Event Logistics
 * [Privacy Policy](./privacy-policy.md)
 * [Terms & Conditions](./terms.md)
 * [Backend Setup Instructions](#todo-backend-setup-instructions)
+
+## Development
+
+Athena was built for logistics management of the [Aufgetischt](https://aufgetischt.sg/) and [Buskers Chur](https://buskers-chur.ch/) Festivals by [@punkah](https://github.com/punkah) and [@maennchen](https://github.com/maennchen).
