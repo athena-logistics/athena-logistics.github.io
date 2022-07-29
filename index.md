@@ -21,7 +21,7 @@ title: Athena Event Logistics
 * [Athena App (GitHub)](https://github.com/athena-logistics/athena-rn)
 * [Privacy Policy](./privacy-policy.md)
 * [Terms & Conditions](./terms.md)
-* [Backend Setup Instructions](#todo-backend-setup-instructions)
+* [Backend Setup Instructions](./hosting.md)
 
 ## Development
 
