@@ -6,14 +6,8 @@ layout: default
 title: Athena Event Logistics
 ---
 
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; align-items: center; justify-content: flex-start;">
-    <a href="https://apps.apple.com/app/athena-event-logistics/id1637143661" style="display: inline-block;" markdown="1">
-        ![Download from the Apple App Store](./ios-download.svg){:width="200px"}
-    </a>
-    <a href="https://play.google.com/store/apps/details?id=io.athena_logistics.athena_rn" style="display: inline-block;" markdown="1">
-        ![Download from the Google Play Store](./play-download.png){:width="250px"}
-    </a>
-</div>
+[![Download from the Apple App Store](./ios-download.svg){:width="200px"}](https://apps.apple.com/app/athena-event-logistics/id1637143661)
+[![Download from the Google Play Store](./play-download.png){:width="220px"}](https://play.google.com/store/apps/details?id=io.athena_logistics.athena_rn)
 
 ## Links
 
