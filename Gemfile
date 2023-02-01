@@ -35,4 +35,4 @@ gem "wdm", "~> 0.1.0", :platforms => [:mingw, :x64_mingw, :mswin]
 # gem "kramdown-parser-gfm"
 
 # Serve Dev files
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8"
