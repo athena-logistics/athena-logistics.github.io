@@ -16,7 +16,7 @@ gem "jekyll", "~> 3.9.0"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "github-pages", "~> 227"
+  gem "github-pages", "~> 228"
   gem "jekyll-sitemap", "~> 1.4"
 end
 
